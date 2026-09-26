@@ -4,23 +4,74 @@
     "name": "The Exchange Family Church",
     "quotes": [
       {
-        "id": "circle-quote-0001",
+        "id": "xfc0001-quote-0001",
         "text": "Our perfect law of liberty: MY SPIRITUAL MIRROR – Daily confessions\nI am the righteousness of God in Christ Jesus. Thank you, Lord, for this priceless gift.\nBy this gift of righteousness, I reign in life through Jesus Christ.\nSin, Death, Poverty and Sickness have no power over me because Jesus took my place on\nthe cross and took them away.\nToday, I receive everything that this divine exchange made available for me.\nRegardless of my present circumstance, I am who God says I am, I have what He says I\nhave, I can do what He says I can do through His Grace.\nAs He is, so am I in this world today.\nI am Heaven’s ambassador on earth; Yes, I am a soul winner.\nToday I walk by faith and not by sight, I walk in love and I am led by the Holy Spirit.\nI operate in all the gifts of the Spirit. I walk in Power and I walk in Miracles\nI am blessed and I always win in Jesus’ name.\nAmen.",
         "targetPerDay": 1,
         "windowStartMin": 300,
         "windowEndMin": 1440
-      }
+      },
+      {
+        "id": "xfc0001-quote-0002",
+        "text": "Our perfect law of liberty: MY SPIRITUAL MIRROR – Daily confessions\nI am the righteousness of God in Christ Jesus. Thank you, Lord, for this priceless gift.\nBy this gift of righteousness, I reign in life through Jesus Christ.\nSin, Death, Poverty and Sickness have no power over me because Jesus took my place on\nthe cross and took them away.\nToday, I receive everything that this divine exchange made available for me.\nRegardless of my present circumstance, I am who God says I am, I have what He says I\nhave, I can do what He says I can do through His Grace.\nAs He is, so am I in this world today.\nI am Heaven’s ambassador on earth; Yes, I am a soul winner.\nToday I walk by faith and not by sight, I walk in love and I am led by the Holy Spirit.\nI operate in all the gifts of the Spirit. I walk in Power and I walk in Miracles\nI am blessed and I always win in Jesus’ name.\nAmen.",
+        "targetPerDay": 1,
+        "windowStartMin": 300,
+        "windowEndMin": 1440
+      },
+      [
+        {
+          "id": "xfc0001-quote-0003",
+          "text": "Lord have mercy on me",
+          "targetPerDay": 2,
+          "windowStartMin": 300,
+          "windowEndMin": 1440
+        },
+        {
+          "id": "xfc0001-quote-0004",
+          "text": "May I not die for the mistakes of others\nJeremiah 31:30 \n30 But every one shall die for his own iniquity: every man that eateth the sour grape, his teeth shall be set on edge.",
+          "targetPerDay": 2,
+          "windowStartMin": 300,
+          "windowEndMin": 1440
+        },
+        {
+          "id": "xfc0001-quote-0005",
+          "text": "May I not pay for my parents’ pain",
+          "targetPerDay": 2,
+          "windowStartMin": 300,
+          "windowEndMin": 1440
+        },
+        {
+          "id": "xfc0001-quote-0006",
+          "text": "Let your mercy do for me what money cannot do\nMark 5:25-34 (NKJV)\n25 Now a certain woman had a flow of blood for twelve years, 26 and had suffered many things from many physicians. She had spent all that she had and was no better, but rather grew worse. 27 When she heard about Jesus, she came behind Him in the crowd and touched His garment. 28 For she said, “If only I may touch His clothes, I shall be made well.” 29 Immediately the fountain of her blood was dried up, and she felt in her body that she was healed of the [a]affliction.",
+          "targetPerDay": 2,
+          "windowStartMin": 300,
+          "windowEndMin": 1440
+        },
+        {
+          "id": "xfc0001-quote-0007",
+          "text": "May mercy grant me uncommon attention\nLuke 18:35-41 (NKJV)\n39 Then those who went before warned him that he should be quiet; but he cried out all the more, “Son of David, have mercy on me!” 40 So Jesus stood still and commanded him to be brought to Him. And when he had come near, He asked him, 41 saying, “What do you want Me to do for you?”",
+          "targetPerDay": 2,
+          "windowStartMin": 300,
+          "windowEndMin": 1440
+        },
+        {
+          "id": "xfc0001-quote-0008",
+          "text": "May I receive mercy for what I do not qualify for",
+          "targetPerDay": 2,
+          "windowStartMin": 300,
+          "windowEndMin": 1440
+        }
+      ]
     ]
   },
   {
     "id": "emp0001",
-    "name": "Empowerment",
+    "name": "ICGC",
     "quotes": [
       {
-        "id": "circle-quote-0002",
-        "text": "Our perfect law of liberty: MY SPIRITUAL MIRROR – Daily confessions\nI am the righteousness of God in Christ Jesus. Thank you, Lord, for this priceless gift.\nBy this gift of righteousness, I reign in life through Jesus Christ.\nSin, Death, Poverty and Sickness have no power over me because Jesus took my place on\nthe cross and took them away.\nToday, I receive everything that this divine exchange made available for me.\nRegardless of my present circumstance, I am who God says I am, I have what He says I\nhave, I can do what He says I can do through His Grace.\nAs He is, so am I in this world today.\nI am Heaven’s ambassador on earth; Yes, I am a soul winner.\nToday I walk by faith and not by sight, I walk in love and I am led by the Holy Spirit.\nI operate in all the gifts of the Spirit. I walk in Power and I walk in Miracles\nI am blessed and I always win in Jesus’ name.\nAmen.",
+        "id": "emp0001-quote-0001",
+        "text": "Today, I receive everything that this divine exchange made available for me.\nRegardless of my present circumstance, I am who God says I am, I have what He says I\nhave, I can do what He says I can do through His Grace.\nAs He is, so am I in this world today.\nI am Heaven’s ambassador on earth; Yes, I am a soul winner.\nToday I walk by faith and not by sight, I walk in love and I am led by the Holy Spirit.\nI operate in all the gifts of the Spirit. I walk in Power and I walk in Miracles\nI am blessed and I always win in Jesus’ name.\nAmen.",
         "targetPerDay": 1,
-        "windowStartMin": 300,
+        "windowStartMin": 480,
         "windowEndMin": 1440
       }
     ]
